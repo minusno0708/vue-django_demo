@@ -1,6 +1,6 @@
 参考文献
-    DRF & Vue.js & Dockerでの環境構築
-        https://qiita.com/kRysTasis/items/afdb2fad6ae6a3522437
+    Vue.js×Django REST Frameworkで画像登録及び表示処理を実装
+        https://qiita.com/ryo-keima/items/2424dd04f0a64ece3a79
     DockerでPython×Django×Vue.jsの環境を構築する(サーバー起動編)
         https://www.miracleave.co.jp/contents/1715/post-1715/
 
